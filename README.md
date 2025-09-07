@@ -49,4 +49,5 @@ Trend Analysis: It sheds light on the growth of streaming content over the past 
 **Screenshots**
 the dashboard looks like.
 https://github.com/Gouthamkrishna-21/Netflix-Dashboard/blob/main/snapshot%20of%20dashboard.png.png
+
 https://github.com/Gouthamkrishna-21/Netflix-Dashboard/blob/main/snapshort%20of%20dashboard2.png.png
